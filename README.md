@@ -11,6 +11,7 @@
 ###T = TITAN (titan team)
 
 EXAMPLE
+
 ###[player name] - [KIND] - [NUMBER OF POINTS](optional)_[PLAYER VARIATION NUMBER](optional)
  - Clean names means (without number of points):
     - in WIN outcome, flawless victory (20 points);
