@@ -1,6 +1,6 @@
 # guild-war-repo
 
-#HOW TO READ THIS REPO
+# HOW TO READ THIS REPO
 
 ##OUTCOME
 W = WIN (wins a battle)
