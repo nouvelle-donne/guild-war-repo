@@ -14,7 +14,7 @@
 
 ## EXAMPLE
 
-[player name] - [KIND] - [NUMBER OF POINTS](optional)_[PLAYER VARIATION NUMBER](optional)
+[player name] - [KIND] - [NUMBER OF POINTS] (optional) _ [PLAYER VARIATION NUMBER] (optional)
  - Clean names means (without number of points):
     - in WIN outcome, flawless victory (20 points);
     - in LOSE outcome, Perfect Lose (0 points).
@@ -40,7 +40,7 @@
 
 # EXEMPLE
 
-[nom du joueur]- [SORTE]- [NOMBRE DE POINTS] (facultatif)_[NUMÉRO DE VARIATION DU JOUEUR](facultatif)
+[nom du joueur]- [SORTE]- [NOMBRE DE POINTS] (facultatif) _ [NUMÉRO DE VARIATION DU JOUEUR] (facultatif)
 - Des moyens de noms propres (sans nombre de points):
 - en cas de VICTOIRE, victoire sans faille (20 points);
 - en résultat PERDANT, Perte parfaite (0 point).
