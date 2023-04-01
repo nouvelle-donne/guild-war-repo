@@ -14,8 +14,10 @@
 
 ## EXAMPLE
 
-[player name] - [KIND] - [NUMBER OF POINTS] (optional) _ [PLAYER VARIATION NUMBER] (optional)
- - Clean names means (without number of points):
+[player name] - [KIND] _ [PLAYER VARIATION NUMBER] (optional) - [NUMBER OF POINTS] (optional)
+- eg: Not275 - H_2 - 12
+  - **This means: second file variation of not275's hero team where outcome was 12 points;**
+- Clean names means (without number of points):
     - in WIN outcome, flawless victory (20 points);
     - in LOSE outcome, Perfect Lose (0 points).
     
@@ -40,7 +42,9 @@
 
 # EXEMPLE
 
-[nom du joueur]- [SORTE]- [NOMBRE DE POINTS] (facultatif) _ [NUMÉRO DE VARIATION DU JOUEUR] (facultatif)
+[nom du joueur]- [SORTE] _ [NUMÉRO DE VARIATION DU JOUEUR] (facultatif) - [NOMBRE DE POINTS] (facultatif)
+- ex: Not275 - H_2 - 12
+  - **Cela signifie: deuxième variante de fichier de l'équipe de héros de not275 où le résultat était de 12 points;**
 - Des moyens de noms propres (sans nombre de points):
 - en cas de VICTOIRE, victoire sans faille (20 points);
 - en résultat PERDANT, Perte parfaite (0 point).
